@@ -1,0 +1,1 @@
+export default function LawyerProfile(){return <div>Lawyer Profile</div>}
